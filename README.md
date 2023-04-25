@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![Counter](https://badge.haozhexie.com/count?name=hzxie)
+![Counter](https://api.infinitescript.com/badgen/count?name=hzxie)
 
 - 🧑‍💻 I am a Research Fellow at [MMLab@NTU](https://mmlab-ntu.com), Nanyang Technological University (NTU).
 - 🕵️ My research interests include computer vision and deep learning with a focus on 3D generation and reconstruction.
